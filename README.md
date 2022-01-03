@@ -1,2 +1,2 @@
-# Redux-thunks
+# Redux-ToDo
 Created with CodeSandbox
